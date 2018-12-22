@@ -1,0 +1,15 @@
+Admin
+username : admin
+pass: admin
+
+Doctor
+username : doctor@test.com
+pass: 123456
+
+
+Bimar
+username : bimar@gmail.com
+pass: 123456
+
+
+
